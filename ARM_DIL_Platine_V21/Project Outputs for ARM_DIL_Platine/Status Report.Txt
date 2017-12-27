@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [ARM_DIL_Platine.PrjPCB]
+   Generated File[ARM_DIL_Platine.TXT]
+   Generated File[ARM_DIL_Platine.LDP]
+   Generated File[ARM_DIL_Platine.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 20:32:01 On 07.12.2017
